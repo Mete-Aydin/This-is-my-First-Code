@@ -10,7 +10,7 @@ namespace C_
     {
         static void Main(string[] args)
         {
-
+            // Outputs Hello World!
             Console.WriteLine("Hello World!");
         }
     }
